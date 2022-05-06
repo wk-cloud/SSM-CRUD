@@ -1,0 +1,16 @@
+
+/* index 样式表 */
+body,html{
+    background: lightyellow;
+}
+
+
+.employee-table,
+.employee-table th,
+.employee-table td{
+    text-align: center;
+}
+
+ul li {
+    cursor: pointer;
+}
