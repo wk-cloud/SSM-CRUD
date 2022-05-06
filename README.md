@@ -51,7 +51,7 @@
 
 ## 五、底层架构
 
-![image-20220506110058331](img.assets/image-20220506110058331.png)
+![image](https://user-images.githubusercontent.com/72770576/167085884-ac648d40-7836-4317-805a-c8b158a6e9ed.png)
 
 
 
@@ -63,19 +63,19 @@
 
 * 首页
 
-![image-20220505223423263](img.assets/image-20220505223423263.png)
+![image](https://user-images.githubusercontent.com/72770576/167085916-c3cef02b-3da2-4cf4-a1db-1f62696bf3a8.png)
 
 
 
 * 添加员工：
 
-![image-20220505223500869](img.assets/image-20220505223500869.png)
+![image](https://user-images.githubusercontent.com/72770576/167085936-e38721e4-0c36-430c-a8a8-fcd3fa02e1f0.png)
 
 
 
 * 修改员工信息：
 
-![image-20220505223536145](img.assets/image-20220505223536145.png)
+![image](https://user-images.githubusercontent.com/72770576/167085966-8450d0d4-107b-444f-840a-bd88cb81e28f.png)
 
 
 
@@ -336,8 +336,4 @@
                 }
             },
 ```
-
-
-
-## 十三、项目源码
 
