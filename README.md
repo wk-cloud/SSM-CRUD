@@ -16,8 +16,8 @@
 * 使用ajax发送请求
 * Restful 风格的URL，使用HTTP协议请求方式的动词，来表示对资 源的操作（GET（查询），POST（新增），PUT（修改），DELETE （删除））
 *  URI: 
-  *  /employee/{id} GET  查询员工 
-  *  /employee POST  保存员工 
+  * /employee/{id} GET  查询员工 
+  * /employee POST  保存员工 
   * /employee/{id} PUT  修改员工 
   * /employee/{id} DELETE  删除员工
 
